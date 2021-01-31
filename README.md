@@ -1,6 +1,6 @@
  **Usage**
  ```
-# As binary
+# As exec
 gitignore java node etc
 
 # As Python script
