@@ -1,2 +1,2 @@
 #!/bin/bash
-python gitignore.py "$@"
+python3 gitignore.py "$@"
